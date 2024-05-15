@@ -1,0 +1,6 @@
+@AllTrialsAndWalks_HostAddress = http://localhost:5288
+
+GET {{AllTrialsAndWalks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
